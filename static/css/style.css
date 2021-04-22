@@ -1,0 +1,143 @@
+/* 남양주 */
+@font-face { font-family: 'Eoe_Zno_L'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/Eoe_Zno_L.woff') format('woff'); font-weight: normal; font-style: normal; }
+/* 리디바탕 */
+@font-face { font-family: 'RIDIBatang'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/RIDIBatang.woff') format('woff'); font-weight: normal; font-style: normal; }
+/* 인피니티산스 regular */
+@font-face { font-family: 'InfinitySans-RegularA1'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/InfinitySans-RegularA1.woff') format('woff'); font-weight: normal; font-style: normal; }
+/* 인피니티산스 Bold */
+@font-face { font-family: 'InfinitySans-BoldA1'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/InfinitySans-BoldA1.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+html,body{ margin:0; padding:0; width:100%; height:100% }
+
+
+
+
+h1 {
+    font-family: RIDIBatang;
+    font-size:14px;
+    line-height: 1.5;
+    margin-bottom: 0px;
+}
+  
+h2 {
+    font-family: RIDIBatang;
+    font-size:17.5px;
+    line-height: 1.8;
+    margin-bottom: 0px;
+}
+h3{
+    font-family: InfinitySans-BoldA1;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+  
+h4{
+    font-family: InfinitySans-RegularA1;
+    font-size:18px;
+}
+
+h5{
+    font-family: InfinitySans-RegularA1;
+    font-size:13px;
+}
+
+p{
+    font-family: RIDIBatang;
+}
+.captionText{
+    font-size:25px;
+    margin-left: 10px;
+}
+.CategoryText{
+    font-size:30px;
+    margin-left: 10px;
+}
+
+.heading{
+    font-family: RIDIBatang;
+    font-weight: 100;
+    font-size: 4em;
+    /* text-shadow: 1px 1px 5px black; */
+}
+img{
+    height:90%;
+    width:100%;
+}
+.text{
+    font-size:28px;
+    font-style: italic;
+}
+
+input:textarea:read-only{
+    width: 100%;
+    height: auto;
+    line-height : normal;
+    font-family: RIDIBatang;
+    border: none;
+    outline-style: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.error{
+    color: darkred;
+}
+
+.genric-btn {
+    margin-left: 10px;
+}
+.genric-btn.info {
+    color: #fff;
+    background: #38a4ff;
+    border: 1px solid transparent;
+}
+.genric-btn.info:hover {
+    color: #38a4ff;
+    border: 1px solid #38a4ff;
+    background: #fff;
+}
+
+.genric-btn.medium {
+    line-height: 35px;
+}
+
+.genric-btn.radius {
+    border-radius: 3px;
+}
+.getTag{
+    margin-left: 100px;
+}
+
+
+.cotact_info {
+    height: auto;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.cotact_info .address_info {
+    margin-top: 25px;
+}
+
+.footer {
+    /* width:100%;
+    height:100px;
+    position:absolute;
+    bottom:0; */
+    text-align: center;
+
+  }
+.footer .copy-right_text {
+    background: #000000;
+    padding: 50px 0;
+}
+.footer .copy-right_text .copy_right {
+    font-size: 16px;
+    color: #C7C7C7;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+}
+.footer .copy-right_text .copy_right a {
+    color: #5DB2FF;
+}

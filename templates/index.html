@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Image Captioning</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+        <link
+            rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+            integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+            crossorigin="anonymous">
+
+    </head>
+
+    <body>
+        <div class="wrapper">
+
+        <div class="container">
+
+            <div class="jumbotron">
+                <div class="container">
+                    <h1 class="heading"> Image Captioning </h1>
+                    <h1 class="heading"> & Get #HashTags </h1>
+                    <p>Upload the image and get a hashtag recommendation!</p>
+                </div>
+            </div>
+
+            <form
+                class="form-inline"
+                method="POST"
+                action="/caption"
+                enctype="multipart/form-data">
+                <label for="">
+                    <p>
+                        Image: &nbsp;&nbsp;</p>
+                </label>
+                <input
+                    class="form-control"
+                    type="file"
+                    name="userfile"
+                    placeholder="Your image">
+                <button class="genric-btn info medium radius" type="submit">Submit</button>
+                  
+            </form>
+            <br>
+            {% if error %}
+                <p class="error"><strong>Error:</strong> {{ error }}
+            {% endif %}
+            <br>
+
+            {%if result_dic %}
+                <form
+                    class="form-inline"
+                    method="POST"
+                    action="/category"
+                    enctype="multipart/form-data">
+
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <img name="uploadImage" src="{{result_dic['image']}}">
+                        </div>
+
+                        <div class="col-sm-8">
+                            <p class="text"> Generated Caption:</p>
+                            <p class="captionText"> {{result_dic['caption']}}.</p>                            
+
+                            <button class="genric-btn info medium radius getTag" type="submit">Get HashTag!</button>
+                        </div>
+                    </div>
+                    <br>
+                </form>
+                {%endif%}
+
+                {%if result_category %}
+
+                    <div class="row">
+                        <p class="text">Classified Category: </p>
+                        <p class="CategoryText">{{result_category}}</p>
+                    </div>
+           
+                    <div class="row">     
+                        <p class="text">Recommended HashTags: </p>
+                    </div>
+                    <div class="row">     
+                        {% for tag in result_tags %}
+                            <p class="captionText">#{{tag}}</p>
+                        {% endfor %}
+                    </div>
+
+                    <br>
+
+                {%endif%}
+
+
+                </div>
+
+                <div class="container">
+                    <div class="cotact_info">
+                        <div class="section_title">
+                            <h3>Developer Info</h3>
+                        </div>
+                        <div class="address_info">
+                            <h5>JIWON LEE</h5>
+                            <h5>Sungkyunkwan University</h5>
+                            <h5>dlwldnjs9690@gmail.com</h5>
+                            <br>
+                        </div>
+                    </div>
+                </div>
+
+                <footer class="footer">
+                    <div class="copy-right_text">
+                        <p class="copy_right ">
+                            Copyright &copy;<script>
+                                document.write(new Date().getFullYear());
+                            </script>
+                            All rights reserved by
+                            <a href="https://github.com/ljw322" target="_blank">jiwon</a>
+                        </p>
+                    </div>
+                </footer>
+
+    
+            </body>
+
+        </html>

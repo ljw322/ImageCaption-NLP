@@ -1,0 +1,1085 @@
+fashion	A man in an orange hat starring at something .
+fashion	A man wears an orange hat and glasses .
+fashion	A man with gauges and glasses is wearing a Blitz hat .
+fashion	A man with glasses is wearing a beer can crocheted hat .
+fashion	The man with pierced ears is wearing glasses and an orange hat .
+travel	A collage of one person climbing a cliff .
+travel	A group of people are rock climbing on a rock climbing wall .
+travel	A group of people climbing a rock while one man belays
+travel	Seven climbers are ascending a rock face whilst another man stands holding the rope .
+travel	Several climbers in a row are climbing the rock while the man in red watches and holds the line .
+travel	A child and a woman are at waters edge in a big city .
+travel	a large lake with a lone duck swimming in it with several people around the edge of it .
+travel	A little boy at a lake watching a duck .
+travel	A young boy waves his hand at the duck in the water surrounded by a green park .
+travel	Two people are at the edge of a lake , facing the water and the city skyline .
+couples	A couple and an infant , being held by the male , sitting next to a pond with a near by stroller .
+couples	A couple sit on the grass with a baby and stroller .
+couples	A couple with their newborn baby sitting under a tree facing a lake .
+couples	A man and woman care for an infant along the side of a body of water .
+couples	Couple with a baby sit outdoors next to their stroller .
+travel	A man drilling a hole in the ice .
+travel	A man is drilling through the frozen ice of a pond .
+travel	A person in the snow drilling a hole in the ice .
+travel	A person standing on a frozen lake .
+travel	Two men are ice fishing .
+travel	A man uses ice picks and crampons to scale ice .
+travel	an ice climber in a blue jacket and black pants is scaling a frozen ice wall .
+travel	An ice climber scaling a frozen waterfall .
+travel	A person in blue and red ice climbing with two picks .
+travel	Climber climbing an ice wall
+travel	A man and a baby are in a yellow kayak on water .
+travel	A man and a little boy in blue life jackets are rowing a yellow canoe .
+travel	A man and child kayak through gentle waters .
+travel	A man and young boy ride in a yellow kayak .
+travel	Man and child in yellow kayak
+fitness	A boy with a stick kneeling in front of a goalie net
+fitness	A child in a red jacket playing street hockey guarding a goal .
+fitness	A young kid playing the goalie in a hockey rink .
+fitness	A young male kneeling in front of a hockey goal with a hockey stick in his right hand .
+fitness	Hockey goalie boy in red jacket crouches by goal , with stick .
+travel	A tent is being set up on the ice .
+travel	Two men are about to enter an ice fishing tent on a snow covered lake .
+travel	two men setting up a blue ice fishing hut on an iced over lake
+travel	Two men , standing on an ice , looking into something covered with a blue tarp .
+travel	Two people standing outside a blue tent structure on a snowy surface .
+travel	a man is standing in front of a skyscraper
+travel	A man stands in front of a skyscraper .
+travel	A man stands in front of a very tall building .
+travel	Behind the man in a red shirt stands a large skyscraper .
+travel	There is a skyscraper in the distance with a man walking in front of the camera .
+travel	People sit on the mountainside and check out the view .
+travel	Three people are on a hilltop overlooking a green valley .
+travel	Three people hang out on top of a big hill .
+travel	Three people overlook a green valley .
+travel	Three people rest on a ledge above the moutains .
+couples	A man and woman pose for the camera while another man looks on .
+couples	A man is holding the hand of a woman up to his mouth in front of some buildings while another man looks on .
+couples	A multiracial couple posing for a picture
+couples	Asian man and blond woman holding hands outdoors , man in background watches .
+couples	Guy in blue shirt biting hand of girl in black striped jacket while another guy watches
+food	A person eats takeout while watching a small television .
+food	A person sits on the floor and eats in front of a television .
+food	A television with a picture of a girl on it .
+food	A young man sits on the floor by the television with a fast food meal in front of him .
+food	Someone is laying in front of the TV eating food .
+travel	a couple of several people sitting on a ledge overlooking the beach
+travel	A group of people sit on a wall at the beach .
+travel	A group of teens sit on a wall by a beach .
+travel	Crowd of people at the beach .
+travel	Several young people sitting on a rail above a crowded beach .
+fitness	A boy takes a jump on his skateboard while another boy with a skateboard watches .
+fitness	A child is performing a skateboard trick while another child with a skateboard leans on a wall .
+fitness	A little boy skateboarder is doing a trick on his board while another young skateboarder watches .
+fitness	a young boy skateboarder jumping on a platform on a skateboard .
+fitness	Two skateboarders .
+travel	A girl paddling down a large river , as seen from behind her .
+travel	A woman kayaking down a river .
+travel	A woman paddles a boat down a river .
+travel	A woman with a paddle .
+travel	A woman with a paddle sits in a boat on the water .
+fitness	Two constructions workers sit on a beam taking a break .
+fitness	Two construction workers are sitting up on the side of a building .
+fitness	Two construction workers sitting on an I-beam .
+fitness	Two construction workers take a seat on a steel beam .
+fitness	Two men take a break from construction .
+travel	A blond woman in a blue shirt appears to wait for a ride .
+travel	A blond woman is on the street hailing a taxi .
+travel	A woman is signaling is to traffic , as seen from behind .
+travel	A woman with blonde hair wearing a blue tube top is waving on the side of the street .
+travel	The woman in the blue dress is holding out her arm at oncoming traffic .
+fashion	A guy stands by a window taking his overshirt off .
+fashion	A man in a tank top stands next to a chrome door .
+fashion	A man puts his shirt on near an elevator .
+fashion	A man stands by an elevator with his head down .
+fashion	The man is putting on his shirt near an elevator .
+fitness	A hiker standing high on a bluff overlooking the mountains below .
+fitness	a person on ski 's looks from hill over snow covered landscape
+fitness	A skier is overlooking a snow-covered mountain .
+fitness	A skier is overlooking the beautiful white snow covered landscape .
+fitness	A skier pauses on a mountaintop .
+fashion	A man in blue shorts is laying in the street .
+fashion	A man in blue shorts lays down outside in a parking lot .
+fashion	A man laying down in middle of street during heavy traffic .
+fashion	A man lies on a mat in a parking lot between a brown SUV and a yellow pickup with an open door .
+fashion	A shirtless man is laying down in the middle of a busy street .
+travel	A crowd watching air balloons at night .
+travel	A group of hot air balloons lit up at night .
+travel	People are watching hot air balloons in the park .
+travel	People watching hot air balloons .
+travel	Seven large balloons are lined up at nighttime near a crowd .
+couples	A lady and a man with no shirt sit on a dock .
+couples	A man and a woman are sitting on a dock together .
+couples	A man and a woman sitting on a dock .
+couples	A man and woman sitting on a deck next to a lake .
+couples	A shirtless man and a woman sitting on a dock .
+pets	A closeup of a white dog that is laying its head on its paws .
+pets	a large white dog lying on the floor .
+pets	A white dog has its head on the ground .
+pets	A white dog is resting its head on a tiled floor with its eyes open .
+pets	A white dog rests its head on the patio bricks .
+fitness	a woman in a yellow shirt and green shorts is climbing an artificial red wall whilst wearing a safety harness .
+fitness	A woman in blue shorts and a white shirt is indoor rock climbing .
+fitness	The girl is climbing a rock wall .
+fitness	The girl is in a harness , climbing rocks .
+fitness	Woman climbing an artificial rock wall .
+holidays	A boy is jumping on an inflatable ring and a girl is watching him
+holidays	A boy jumping on a water jumphouse
+holidays	A teenage boy is jumping on an inflatable slide .
+holidays	A young boy jumping and a young girl seating in an inflatable pool .
+holidays	Two young kids are playing in the water on an inflated toy .
+travel	A family playing on a tractor on a beautiful day
+travel	Children ride a tractor in a field .
+travel	Several children playing on a Polaris vehicle outdoors .
+travel	The children played on the four wheeler in the field .
+travel	The four kids are riding on an ATV in a field .
+travel	A woman in a red costume to the left of a man and woman standing together .
+travel	A woman wearing a red costume looks at two other people standing on a street .
+travel	A young woman in a red sequined costume and feather stands on the sidewalk .
+travel	The girl in the salmon colored bikini is standing next to two young people ; one is wearing a black outfit and the other is drinking pop .
+travel	Two young people are approached by a flamboyant young woman dressed in a red bikini and a red feathered headress .
+fitness	Skiiers walking up the hill through a forest .
+fitness	Two men are skiing in the snow in a wooded area .
+fitness	Two people wearing yellow jackets cross-country skiing .
+fitness	Two skiers are making their way through woodland .
+fitness	Two skiers are sliding down a trail in the woods .
+fitness	A lone skier is making their way up a mountain .
+fitness	Skiiers at the top of a snow covered hill .
+fitness	Two hikers climbing a snowy hill .
+fitness	Two people are on a snow-covered mountain .
+fitness	Two people climbing up a snowy mountain .
+pets	a brown dog running down a paved pathway
+pets	A brown dog running next to grass .
+pets	A dog is running down a road .
+pets	A light brown dog runs down a path happily .
+pets	Energetic brown dog running
+travel	A mother and children is fishing on a boardwalk at night .
+travel	A woman and three children stand on a deck with a fishing pole .
+travel	A woman stands with children on a boardwalk at night overlooking the sea .
+travel	Some people on a pier at night with one girl fishing off it .
+travel	Woman with three children fishing over boardwalk in the evening .
+fashion	A woman dressed in a blue jacket and blue jeans rides a brown horse near a frozen lake and snow-covered mountain .
+fashion	A woman in a blue jacket rides a brown pony near water .
+fashion	A woman rides a horse near a frozen lake in the wintertime .
+fashion	A young blond woman sitting atop a brown draft horse in the snowy mountains .
+fashion	Woman n blue jacket sits on daft horse near a frozen lake .
+pets	Two draft horses pull a cart through the snow .
+pets	Two golden brown horses pull a sleigh driven by a woman in a blue coat .
+pets	Two horses are pulling a woman in a cart .
+pets	Two horses pull a carriage driven by a woman over snow covered ground .
+pets	Two horses pulling a sled steered by a smiling blond woman .
+fitness	A person climbing down a sheer rock cliff using a rope
+fitness	A person climbs a tall , flat mountain while holding onto a safety rope .
+fitness	A person is climbing a rock while holding onto a white rope .
+fitness	A person rappels down a steep incline .
+fitness	A person wearing a red vest climbs up a steep rock .
+fitness	People stand inside a rock dome .
+fitness	Shaft of light in a cave shows three spelunkers
+fitness	Spelunkers pose inside a rock cavern while bathed in sunlight from the surface .
+fitness	three people sit in a cave .
+fitness	Three rock climbers are posing on big rocks .
+fitness	a group of backpackers lay on the dry ground .
+fitness	A group of hikers are resting on the ground in front of some mountains .
+fitness	People camp with the mountains in the background .
+fitness	Several hikers rest with their gear in front of a mountain .
+fitness	The group of hikers is resting in front of a mountain .
+fashion	A woman in a blue dress stands with a chalk portrait of two children playing by a stream .
+fashion	A woman standing in front of a chalk drawing
+fashion	A woman stands next to a chalk drawing in front of a barn-like structure .
+fashion	A woman stands outside near an elaborate chalk illustration .
+fashion	A woman wearing a blue dress is drawing a picture of a boy and a girl on the sidewalk with sidewalk chalk .
+couples	A little girl and boy play in the sand on the beach .
+couples	A young boy and girl play together in the sand .
+couples	boy and girl make a sand castle
+couples	Two children build a sand castle on the beach .
+couples	two kids building a sand castle
+pets	A brown dog plays in a deep pile of snow .
+pets	A dog looking at the camera in snow .
+pets	a dog runs through the snow .
+pets	A tan dog stand in the snow and looks up .
+pets	The brown dog is out in the snow .
+pets	A Corgi runs out of a tunnel .
+pets	A dog runs out of a tunnel on a course .
+pets	Dog running out of tunnel on obstacle course
+pets	The dog is running out of the tunnel on a dog obedience course .
+pets	The small brown and white dog is running out of a small tunnel .
+pets	A blond dog and a black and white dog run in a dirt field .
+pets	a dog chases another dog .
+pets	A yellow dog and a black and white dog are running in the dirt .
+pets	Two dogs are running in a field .
+pets	two dogs running around
+couples	An Asian girl and boy playing on with a yellow ball on a black and white floor .
+couples	Two children play and one has a beach ball .
+couples	Two children play with a ball on the floor .
+couples	Two young children playing with each other and a ball .
+couples	Young girl in pink dress plays with boy and a ball
+travel	A little girl in a blue swimsuit is walking along a wooden fence next to a sandy beach .
+travel	A little girl with arms outstretched is posing at the beach .
+travel	A young girl walks on a railing in front of the beach .
+travel	Little girl in blue swimsuit standing on a handrail near a beach .
+travel	The little girl in the blue bathing suit is posing at the beach .
+pets	A black and white dog drinking water from a water spray .
+pets	A black and white dog is being soaked with a jet of water in a blue paddling pool .
+pets	A dog sticking its face into the shower from a garden hose .
+pets	A small white dog gets sprayed by water
+pets	A white and black dog is jumping into a pool .
+holidays	a boy smiles underwater .
+holidays	A red-headed boy swimming underwater .
+holidays	A small boy swimming underwater
+holidays	A smiling boy swims underwater in a pool .
+holidays	The boys smiles underwater at the pool .
+holidays	A boy with a toy gun .
+holidays	A little boy in orange shorts playing with a toy .
+holidays	A young boy with his foot outstretched aims a toy at the camera in front of a fireplace .
+holidays	A young child plays with his new light-up toy .
+holidays	Boy with toy gun pointed at the camera .
+fashion	A boy in yellow shorts is standing on top of a cliff .
+fashion	A boy wearing blue and yellow walking on a cliff edge .
+fashion	A little boy standing high in the air on a rock .
+fashion	A young child is standing alone on some jagged rocks .
+fashion	Child stands near edge of cliff .
+fitness	A person on a snowmobile in mid jump .
+fitness	A snowmobiler flies through the air .
+fitness	A snowmobile rider flies through the air on his or her machine in front of tall pine trees .
+fitness	Rider jumps snowmobile high in rural area .
+fitness	The man is up in the air .
+fitness	People are riding around on snowmobiles .
+fitness	People pose with helmets and goggles on while riding snowmobiles .
+fitness	Several people are taking a break while on a snowmobiling ride .
+fitness	Three people and two snowmobiles .
+fitness	Two helmeted men sit on yellow snowmobiles while another man stands behind watching .
+fitness	A man jumps gin the air while riding an ATV
+fitness	A man on a four-wheeler jumps near a small building .
+fitness	An ATV is airborne over a field in front of a white structure .
+fitness	A person dressed in a tan jacket jumps a quad over a harvested cornfield in front of a small out building .
+fitness	Man on four wheeler in the air .
+holidays	A boy in s striped shirt is jumping in front of a water fountain .
+holidays	A boy is jumping off the side of a running stone water fountain in front of a building .
+holidays	A happy boy is jumping in front OD city fountain .
+holidays	A little boy is jumping in front of a fountain .
+holidays	A little boy is playfully jumping off the side of a fountain .
+holidays	A boy carrying a soccer ball .
+holidays	A boy walks with a ball tucked under his arm .
+holidays	A boy walks with a soccer ball near a fence .
+holidays	A boy wearing a white t-shirt walks on the grass and carries a soccer ball .
+holidays	Small boy carries a soccer ball on a field .
+holidays	A child painting a picture .
+holidays	An artist paints clouds onto a canvas .
+holidays	A young girl painting a picture .
+holidays	A young girl with braids is painting with water colors on a white paper on the wall .
+holidays	The child paints on a large paper with water colors .
+fitness	A cyclist is riding a bicycle on a curved road up a hill .
+fitness	A man in aerodynamic gear riding a bicycle down a road around a sharp curve .
+fitness	A man on a mountain bike is pedaling up a hill .
+fitness	Man bicycle up a road , while cows graze on a hill nearby .
+fitness	The biker is riding around a curve in the road .
+pets	a black dog jumping to catch a rope toy
+pets	A black dog playing fetch with a ball of rope .
+pets	A black dog pounces to get a rope toy .
+pets	A black dog running after his rope toy .
+pets	A large black dog is playing in a grassy yard .
+holidays	A little girl is holding a cine camera in front of her face .
+holidays	A young girl is looking through an old fashioned video camera .
+holidays	A young girl steadies her aim with a camera
+holidays	Girl with rosy cheeks and lips holding black toy gun .
+holidays	There is a kid with a gun .
+pets	A black and white Border Collie catches a Frisbee in front of an audience .
+pets	a brown and white dog catches a Frisbee in it mouth in front of a group of people .
+pets	A brown and white dug jumping up to catch a Frisbee while an audience watches .
+pets	A dog jumps to catch a Frisbee , while many people watch .
+pets	An agile dog catches a Frisbee while a crowd of onlookers watches closely .
+holidays	A baby is sitting on and playing with smooth rocks .
+holidays	A baby is stacking rocks on the beach .
+holidays	A small boy is playing with rocks
+holidays	A toddler sitting on a pile of rocks holding a rock at a beach .
+holidays	Toddler sits on a pile of rocks .
+holidays	A kid rock climbing against the backdrop of a green valley
+holidays	A woman in a striped shirt climbs up a mountain .
+holidays	A young man climbs a rocky hill .
+holidays	The person has a striped shirt on and is holding on to a rope on a mountain .
+holidays	The person in the striped shirt is mountain climbing .
+fitness	A man climbing a rock wall
+fitness	A man climbing the side of a cliff .
+fitness	A man is rock climbing .
+fitness	Man with red shoes , white shirt and grey pants climbing .
+fitness	The young man with the white t-shirt and jeans is rappeling up the rock wall .
+fitness	A climber wearing a blue helmet and headlamp is attached to a rope on the rock face .
+fitness	A man climbs a rocky wall .
+fitness	a rock climber climbs a large rock .
+fitness	A woman in purple snakeskin pants climbs a rock .
+fitness	Person with blue helmet and purple pants is rock climbing .
+holidays	A child playing with a fountain at the beach .
+holidays	A child plays with a fountain .
+holidays	A girl looks at a fountain that sprays water .
+holidays	A little girl playing in water on a frog sculpture .
+holidays	The little girl is playing with a toy in a public fountain .
+pets	A black dog is jumping over a log along a beach .
+pets	A black dog runs along the beach and jumps over a wood barrior .
+pets	A dog is running on the beach .
+pets	a dog jumping over a small wall at a beach near the water .
+pets	An animal is running on the beach .
+pets	A black and white bird eating seeds out of someone 's hand
+pets	A black and white bird standing on a hand .
+pets	A small bird sits in a person 's hand and eats seeds .
+pets	Black and white bird standing on hand of someone holding sunflower seeds
+pets	The small bird is clinging to a finger of the hand holding the seeds .
+pets	A brown dog is running in the sand .
+pets	A brown dog playing in the sand .
+pets	A brown dog plays at the beach .
+pets	A dog is standing in the sand .
+pets	A dog running fast in the sand .
+holidays	A little boy stands in the surf .
+holidays	A small child wades through the water while being guided by another person .
+holidays	A young boy laughs while splashing in the ocean .
+holidays	a young boy wearing a colorful bathing suit splashing in the ocean
+holidays	A young child splashing in water .
+pets	A little tan dog with large ears running through the grass .
+pets	A playful dog is running through the grass .
+pets	A small dogs ears stick up as it runs in the grass .
+pets	The small dog is running across the lawn .
+pets	this is a small beige dog running through a grassy field
+pets	A black and white dog is running through the field .
+pets	A black , brown and white dog running through a field .
+pets	A brown , black and white dog is running through a large field with its mouth open .
+pets	A dog running in a field .
+pets	A dog with its mouth open running through a field torwards the camera .
+fashion	A girl in a pink swimsuit in a pool
+fashion	A girl swimming in a pool .
+fashion	A little girl in a pink bathing suit swimming in a pool .
+fashion	A little girl swimming in a pool .
+fashion	Smiling little girl swimming in outdoor pool .
+holidays	A child is standing on her head .
+holidays	A little girl standing on her head .
+holidays	A small child doing a handstand on a bed .
+holidays	A young girl does a handstand on a bed with blue sheets .
+holidays	The girl is upside down on a bed
+travel	A guy stands in the sand with a snowboard behind him .
+travel	A man holds a surfboard on the beach .
+travel	a man holds his snowboard in the sand .
+travel	A man with his surfboard stands in the sand .
+travel	Man is standing on white sand and holding a snowboard .
+travel	People on ATVs and dirt bikes are traveling along a worn path in a field surrounded by trees .
+travel	Three people are riding around on ATV 's and motorcycles .
+travel	Three people on motorbikes follow a trail through dry grass .
+travel	Three people on two dirt-bikes and one four-wheeler are riding through brown grass .
+travel	Three people ride off-road bikes through a field surrounded by trees .
+holidays	A baby in a white garment holds a flag with crescent moon and star .
+holidays	A baby is holding a small black flag with a moon and a star on it .
+holidays	A baby wearing a white gown waves a Muslim flag .
+holidays	A little toddler dressed in white is smiling while a lady helps him wave a flag .
+holidays	Baby in white outfit holding black and white flag .
+fashion	A half naked man is sleeping on his chair outdoors .
+fashion	An older man sits back and relaxes on a patio outside an adobe building where many bicycles are propped .
+fashion	A shirtless man in a white cap relaxes in a deck chair , close to three parked bicycles .
+fashion	Man relaxing in a folding chair on the street .
+fashion	Topless old man wearing slippers , navy blue pants and a white hat while reclining in a chair outside .
+pets	A brown and white and a black and white dog hauling in a floating toy from the ocean .
+pets	Both dogs retrieve the play toy from the water .
+pets	Two dogs in the ocean playing with a toy
+pets	Two dogs run through the water with a rope in their mouths .
+pets	Two dogs tug at a chew toy in the surf .
+holidays	There are three young people , one dark haired holding a bottled drink , one with head tilted back and finger in her mouth , and one with spiked hair .
+holidays	The young people party in the streets .
+holidays	Three girls make faces as one takes a drink while they stand in a busy street .
+holidays	Three women on the street drinking and posing
+holidays	Three young women pose for the camera at a parade .
+holidays	A young boy runs while wearing sandals .
+holidays	Little boy in a striped shirt and brown shorts is running .
+holidays	The little boy , in a short sleeved shirt and shorts , is running outside .
+holidays	The little boy is wearing a black pinstripe shirt and walking on a deck .
+holidays	Young boy running outside on the pavement .
+pets	A brown and white dog stands outside while it snows .
+pets	A dog is looking at something near the water .
+pets	A furry dog attempts to dry itself by shaking the water off its coat .
+pets	A white and brown dog shaking its self dry .
+pets	The large brown and white dog shakes off water .
+travel	Two men are sitting on the ground and going through their backpacks .
+travel	Two men sitting in front of a railing are looking at something .
+travel	Two men with backpacks placed in front of them sitting in front of a railing .
+travel	Two men with backpacks are sitting on cardboard along a railing .
+travel	Two older men with backpacks sit at a bus station .
+holidays	A boy is jumping on a bed .
+holidays	A boy jumped up from the green bed .
+holidays	A boy jumps from one bed to another .
+holidays	A small child is jumping on a bed .
+holidays	The boy in blue shorts is bouncing on the bed .
+fashion	A child leaping from bed to bed behind the back of a man .
+fashion	A man is standing with his arms folded looking at something while the person behind him is jumping onto one of the two beds in the room .
+fashion	a man wearing a yellow shirt standing in the middle of two beds that a boy is jumping on in the background
+fashion	A young child jumping on the bed as a man looks the other way .
+fashion	Man standing in the bedroom with little boy jumping into bed .
+fitness	A snowboarder sits on a slope with skiers and boarders nearby .
+fitness	A snowboarder takes a rest on the mountainside .
+fitness	Snowboarders sitting in the snow while skiers take the hill .
+fitness	The snowboarder is sitting down .
+fitness	Two skiers stand , two sit on slopes .
+fashion	A girl in green walks down a city street .
+fashion	A small child in green clothing walks past a store opening and a woman in pink pants .
+fashion	A small child walks down a sidewalk .
+fashion	A young boy is walking in front of some stores
+fashion	The child in the green one piece suit is walking past a store window .
+fitness	A boy dressed in soccer attire and holding his shoes getting out of a car .
+fitness	A boy in a red soccer strip is holding his boots in his hand whilst stepping out of a car .
+fitness	A boy in glasses is wearing a red shirt .
+fitness	A child getting out of the car wearing soccer shoes .
+fitness	A young boy gets out of the van and prepares his shoes for wear during a soccer game .
+travel	A bridge through high green plants , a man and a woman on it .
+travel	A man and a woman are crossing over a rope bridge with greenery all over them .
+travel	A man and a woman are walking across a rope bridge .
+travel	A man and a woman crossing a suspension bridge in a tropical setting .
+travel	Woman and man walking across wooden rope bridge with a caution sign beside it .
+travel	A family gathered at a painted van
+travel	A girl climbing down from the side of a bright blue truck while others watch .
+travel	A man is helping a girl step down from a colorful truck whilst a woman and three children watch .
+travel	A very colorful bus is pulled off to the side of the road as its passengers load .
+travel	Two women and four children standing next to a brightly painted truck .
+couples	A blond woman poses with a person in a pink costume .
+couples	A smiling woman holds a person dressed in a pig costume .
+couples	A young woman hugs a young man who 's wearing a pink costume .
+couples	Blond embracing young man in pink costume , at event
+couples	Two people are hugging and one is wearing a pink-hooded stretch top .
+fitness	A bicyclist riding on a city street .
+fitness	A woman in a blue helmet and brown shorts rides her bike on a busy street .
+fitness	A woman is riding a blue bike .
+fitness	A woman is riding her bicycle in traffic
+fitness	A woman wearing a blue helmet rides her bicycle in a parking lot .
+fitness	A bicycle rider is crossing a street .
+fitness	A bicyclist getting ready to cross a street .
+fitness	A biker in spandex riding on a busy street .
+fitness	A man in blue and white biking gear rides down a busy street .
+fitness	a man wearing a helmet riding his bicycle down the street .
+fitness	A lady wearing a helmet holding a bike .
+fitness	A woman in a blue vest and a sky blue helmet stands with her bicycle in traffic .
+fitness	A woman in a helmet rides her bike behind a car .
+fitness	A woman with a helmet and a backpack walks next to her bike .
+fitness	Women with bike and helmet wait for traffic .
+fitness	A man in shorts is jogging along a street with a headset .
+fitness	A person in blue shorts and wearing a Walkman jogs .
+fitness	A woman in a white shirt and blue shorts is wearing headphones .
+fitness	A woman walks on a street wearing headphones .
+fitness	A woman wearing a white hat and shirt is jogging down a street with a plant store on the corner .
+fitness	Bicyclists are standing at an intersection .
+fitness	Bicyclists waiting at an intersection .
+fitness	People on bicycles waiting at an intersection .
+fitness	People waiting at a light on bikes .
+fitness	three bikers stop in town .
+fitness	A man without a shirt on is guiding a large brown horse pulling a green and yellow wagon .
+fitness	A shirtless man escorts a horse pulling a carriage along a paved road .
+fitness	A shirtless man leading a horse that is pulling a carriage .
+fitness	Shirtless man leading a small horse-drawn covered wagon down a road
+fitness	The shirtless man is walking the Shetland pony and carriage down the street .
+fitness	A boy hits a ball off of a tee ball into to net .
+fitness	A child practices hitting a baseball into a net , while two adult men watch .
+fitness	A man holds a net while a boys bats a ball into it .
+fitness	The man is holding the net for the boy playing baseball .
+fitness	Three people put up a batting cage .
+holidays	A small girl spins in the waves in the bright sun .
+holidays	A young girl plays in shallow water .
+holidays	A young girl wears a shirt and shorts as she plays in the ocean 's surf .
+holidays	Girl running through the water near the shore .
+holidays	The little girl splashes through the water .
+holidays	A girl playing trumpet in a marching band .
+holidays	A teenager plays her trumpet on the field at a game .
+holidays	a young girl wearing a blue shirt marching in a band playing a trumpet
+holidays	Girl playing the trumpet in a marching band
+holidays	Girl wearing blue shirt and black shorts plays trumped outside .
+food	A girl hands out Starbucks samples at a street fair .
+food	An Asian girl in a green hat and apron is serving drinks on a tray .
+food	a Starbucks barista offering up a tray of drinks
+food	The waitress offers complimentary tea to the patrons .
+food	Woman dressed in a green hat and apron is holding a try full of drink samples .
+travel	Three men are setting up a sledge on a snowy plain .
+travel	Three men loading items on a sled .
+travel	Three people and a sled .
+travel	Three people are standing in the snow preparing an ice fishing boat .
+travel	Three people in the snow put their gear in order .
+holidays	A child jumping into a lake in a wooded area while another child plays on the shore .
+holidays	A child jumps into the water with his sneakers on .
+holidays	A kid jumping into a pool of water .
+holidays	Little boy in sneakers jumping into water .
+holidays	The man takes a leap into the water with his shoes on .
+fashion	A elderly man in a straw hat is sitting on a bench .
+fashion	a elderly man sits alone on a park bench .
+fashion	An old man in a straw hat sits on a park bench .
+fashion	The old man in the brown hat is sitting on the bench .
+fashion	White haired man in gray sweater and a straw hat sitting on a bench under a tree .
+travel	Three girls are walking across a bridge covered with wood and surrounded by trees .
+travel	Three girls walking along an arched garden pathway .
+travel	Three girls walk under an arbor on a path surrounded by trees .
+travel	Three women walking through a tunnel in a park .
+travel	Three women walk through a plant covered atrium hallway .
+fashion	A girl dressed in a red top , a red cap , and light colored shorts , sits on a rock outside .
+fashion	A little girl in a red hat and yellow flip flops sits on a rock .
+fashion	A little girl with a red hood and shirt is sitting with legs sprawled on a rock , her mouth open .
+fashion	A young girl wearing yellow flip-flops is sitting on a large boulder .
+fashion	The little girl sits on top of a rock .
+fitness	A man eats near a tent in the snow .
+fitness	A man sitting near a tent in the snow and ice .
+fitness	A mountaineer sits in the snow in front of a yellow tent under clear blue sky .
+fitness	Person wearing a hooded jacket sitting on snow in front of a yellow tent .
+fitness	Young man in hooded jacket sitting on snow in mountain area .
+pets	A grey dog beside a black and white dog running in green grass .
+pets	two dogs are wrestling in a grassy field .
+pets	two dogs , playing in a field , wrestling with each other
+pets	Two dogs run along a grassy field while one bites the other .
+pets	Two dogs wrestle in a field .
+fashion	A man in a red shirt and glasses is bending down towards a small dog on a blanket with several stuffed animals .
+fashion	A man in a red shirt is giving toys to a small dog .
+fashion	A man is playing tug of war with his dog .
+fashion	A man playing with a black dog on a white blanket .
+fashion	A man playing with his dog on the blanket on the floor .
+fashion	A guy with a nose piercing .
+fashion	A man in a red cap with a nose ring .
+fashion	A teenage boy has a silver ring protruding from his nose .
+fashion	closeup picture of a man with a nose ring and a brown shirt
+fashion	Young man with a nose ring and a hat .
+fashion	A man in yellow grimaces .
+fashion	a man wearing a yellow shirt with a dramatic look on his face
+fashion	The man in the yellow t-shirt is pulling a large grin on his face .
+fashion	There is a man , wearing a yellow shirt , and grimacing .
+fashion	This man is smiling very big at the camera .
+holidays	A man is standing by a group of video games in a bar .
+holidays	a man standing in a bar with a neon beer sign hanging on the wall
+holidays	A man stands next to a bank of computer gambling machines .
+holidays	A man stands next to three video game machines and a beer sign .
+holidays	A man stands next to three video machines .
+pets	A big brown dog plays with a smaller grey dog on the grass .
+pets	The dark brown dog is playing with the light brown dog .
+pets	Two brown dogs are running through the grass .
+pets	Two brown dogs run side by side .
+pets	Two dogs running and playing rough in the grass .
+travel	A girl in blue is jumping on the shore as small waves approach her .
+travel	A girl leaps into the air while standing by the ocean .
+travel	A young , long-haired , girl on the beach , is jumping in the air .
+travel	The girl is running into the ocean from the shore .
+travel	The girls is jumping into the air on the beach .
+travel	A crowd of people walk down a busy sidewalk .
+travel	A group of different people are walking in all different directions in a city .
+travel	A group of people walking a city street in warm weather .
+travel	Busy intersection in the summer time in a city
+travel	People in summer clothes are walking on the sidewalk of a large city .
+pets	A big dog catches a ball on his nose
+pets	A brown and black dog is jumping to catch a red ball .
+pets	A brown and black dog jumps for a red ball .
+pets	Dog jumps to get orange ball on his head .
+pets	The brown and black dog is jumping up to catch a red ball .
+holidays	Two blonde boys , one in a camouflage shirt and the other in blue , are having a water fight .
+holidays	Two boys are squirting water guns at each other .
+holidays	Two boys spraying each other with water
+holidays	Two children wearing jeans squirt water at each other .
+holidays	Two young boys are squirting water at each other .
+pets	a brown dog jumping into a pool after a bloe ball .
+pets	A dog in the air above the swimming pool .
+pets	A dog jumps into a backyard pool .
+pets	A tan colored dog is jumping into an outdoor pool .
+pets	A tan colored dog leaps into the inground pool .
+travel	Parents are pushing little children in red car carts .
+travel	twin boys being pushed in small car shaped strollers in a parade
+travel	Twin toddlers dressed alike being pushed in plastic car strollers in a parade
+travel	Two children ride in toy cars .
+travel	Two kids being pushed in car shaped strollers in a parade .
+fashion	A boys baseball team wear their uniforms .
+fashion	A small boy smiles as he stands with others wearing the same black hats .
+fashion	Children sporting their Florida Dolphin caps .
+fashion	The boys are all wearing the same baseball hats .
+fashion	Three boys wearing Florida Marlins hats .
+pets	A brown dog running through the grass and flowers .
+pets	A dog in a field .
+pets	A dog running in a field of grass and flowers .
+pets	A dog running in shrubbery along a stream .
+pets	A dog walks through a field .
+pets	A small brown and black dog
+pets	A small brown and black dog playing with a toy
+pets	A small dog plays with a toy on top of a white blanket .
+pets	A small , shaggy dog playing with a toy on a blanket .
+pets	Terrier dog playing with toy on blanket
+pets	A big tan dog runs on grass with a big stick in his mouth .
+pets	A dog running across a grassy field with a stick in its mouth .
+pets	A dog running with a stick in his mouth
+pets	A dog runs toward the camera with a stick in its mouth .
+pets	The dog carrying a long stick in its mouth .
+pets	A dog jumping into a swimming pool .
+pets	A grey dog runs alongside a pool while a yellow dog jumps into the pool .
+pets	One dog is jumping into a pool while another runs alongside the pool 's edge .
+pets	one tan dog jumping in a pool while the other grey dog is on the deck
+pets	Two dogs jumping into a swimming pool .
+travel	A little old lady sitting next to an advertisement .
+travel	An Asian woman waiting at an underground train stop .
+travel	An old woman sits in a transit station next to a backlit advertisement .
+travel	A woman sits in a subway station .
+travel	A woman with an umbrella is sitting at a station , with an Aquos commercial on the wall .
+fitness	A girl rides a unicycle as another rides a scooter next to her .
+fitness	A girl rides a unicycle with a child who rides a scooter .
+fitness	A young girl rides a unicycle next to another riding a scooter on a busy street .
+fitness	The girl on the unicycle reaches out for the child on the scooter .
+fitness	There is a girl on a unicycle and a child on a scooter .
+fashion	A man in a brown shirt sitting on a dock and reading .
+fashion	A man is sitting next to the water , reading .
+fashion	A man reading a book on the dock near a post .
+fashion	A person in a brown jacket is sitting on a pier by the water reading .
+fashion	Person sitting on concrete landing next to body of water
+fashion	a person sits at a table behind a tree .
+fashion	A person wearing a purple jacket stands behind a tall tree .
+fashion	A woman in a purple jacket is eating a snack at a table behind the tree .
+fashion	A woman sits at a picnic table eating with luggage .
+fashion	People eat under green trees .
+couples	a couple walking along on a sidewalk
+couples	A man and a woman walk outside .
+couples	A man and woman standing in front of a refreshment stand
+couples	A man in a black shirt and jeans walks beside a woman in black pants and a flowery shirt in front of a refreshment stand with others walking nearby .
+couples	A woman with a floral shirt and purse and a man with a black shirt are walking while another man walks behind them .
+holidays	A boy lays on a picnic table bench .
+holidays	A child is laying down on a wooden bench .
+holidays	A child is on a bench with arms stretched out .
+holidays	A little boy in a red shirt sitting on a wooden picnic table bench .
+holidays	A little boy lies down on a picnic table bench .
+pets	Dogs fight in grass over toy .
+pets	On grass , two brown dogs tussle for orange toy .
+pets	Two dogs are playing rough in a green field of grass .
+pets	Two dogs play with an orange toy in tall grass .
+pets	Two large brown dogs are playing in the grass .
+fashion	A boy and a person suspended above a dome structure .
+fashion	A boy in a blue shirt is posing in front of an igloo type building with a person dangling from a rope above the building .
+fashion	A boy poses for a picture and in the background a man is hanging by a rope .
+fashion	A boy stands near a structure outside .
+fashion	a young man wearing a blue shirt with a strange white building in the background
+fashion	A girl in a brown dress surrounded by children closes her eyes .
+fashion	A girl in a yellow dress with the sun shining on her face
+fashion	a girl in yellow dress is standing with her eyes closed in a busy park .
+fashion	A young girl in a white dress
+fashion	Children at a park .
+fashion	A man in a black jacket is taking a photo of a man in a red jacket .
+fashion	A man in a black outfit is taking a photograph of a man in a red jacket .
+fashion	A man takes a picture of another man in an open area just off of a busy street .
+fashion	A young man taking a picture of another young man outdoors
+fashion	Young man takes picture of another young man in front of church .
+travel	A family sits on a bench near a beach .
+travel	A family sits on a bench overlooking the beach .
+travel	A man , woman , girl , and boy sit on a concrete bench by a beach .
+travel	Family sitting on a bench near the beach .
+travel	Taking a break while vacationing at the beach
+fitness	A group of climbers begin up a sheer rock face .
+fitness	A group of rock climbers climb a rock wall in a forest .
+fitness	Many people are climbing the mountain surrounded by pretty green trees .
+fitness	People at a distance trying to climb a cliff .
+fitness	The flat side of a large , rocky mountain .
+fitness	two men cleaning the outside windows of a yacht
+fitness	Two men climb the side of a boat .
+fitness	Two men on the side of a barge
+fitness	Two people outside cleaning windows while on a ledge of a boat .
+fitness	Two people stand on the side of a large white and red boat .
+holidays	Two children are laughing in the grass .
+holidays	Two girls laughing outside in a yard .
+holidays	Two girls standing on grass face each other .
+holidays	Two young girls are playing and laughing in a green grassy yard .
+holidays	Two young girls playing together .
+holidays	A boy in a red and white shirt is on a swing .
+holidays	A child looking back on a fast moving swing .
+holidays	A litlle boy playing on a swing
+holidays	A young boy in orange and white swings in a playground at a park .
+holidays	A young boy plays on a swing .
+holidays	A boy eats with a spoon .
+holidays	A little boy holds a spoon up to his mouth .
+holidays	A little boy is eating his food off of a spoon while sitting on a patio .
+holidays	A small child dressed in green is eating with a spoon .
+holidays	A young child holds a spoon to its mouth while sitting in a chair .
+fashion	A girl walking alone at night on a street .
+fashion	A woman in a blue coat and blue heels walks down a city sidewalk at night .
+fashion	A woman walking down a brick sidewalk .
+fashion	A woman walks down a brick sidewalk at night .
+fashion	A woman walks down a city sidewalk at night .
+pets	A black dog and a brown dog playing in tall weeds .
+pets	A brown dog and a black dog are standing against each other in some grass
+pets	Two dogs are playing outside in a field .
+pets	Two dogs play in tall grass .
+pets	Two dogs wrestle together in the long grass .
+pets	A brown dog jumping in the air on a brown plain .
+pets	A brown dog jumping into the air to catch a ball .
+pets	A brown dog leaping to catch a ball .
+pets	A coppery dog leaps to catch a ball .
+pets	A dog leaps into the air in a grassy field surrounded by trees .
+holidays	A child in gray clothes is sleeping on a red cushion .
+holidays	A little boy has fallen asleep on a miniature sofa and a pacifier in his mouth .
+holidays	A sleeping child sucking on a pacifier .
+holidays	A toddler wearing a pacifier is sleeping on a red blanket with a teddy bear at his side .
+holidays	a young baby sucking a Binky asleep in a chair .
+holidays	A baby girl playing at a park .
+holidays	A closeup of a child on a playground with adult supervision .
+holidays	A young boy poses for a picture in front of a playground .
+holidays	A young girl is smiling in front of the camera at a park .
+holidays	There is a little blond hair girl with a green sweatshirt and a red shirt playing on a playground .
+fitness	A girl in a helmet rides a horse .
+fitness	A girl rides a horse .
+fitness	A young girl wearing a helmet and riding a brown horse .
+fitness	Girl with black helmet riding brown dappled horse
+fitness	The little girl is riding in a brown horse .
+food	a Korean man sells soda .
+food	A man is sitting at an outside bar near many soda and beer cans .
+food	A man wearing glasses with aluminum cans lined up in front of him .
+food	An elderly man is smiling while sitting in front of a row of soda cans .
+food	Vendor selling drinks in a stall .
+fashion	The hatted males pose for a picture .
+fashion	The two men are wearing tall hats , one hat is a red print and the other is gold colored .
+fashion	Two men in tall hats frown at the camera
+fashion	Two men wear silly stove pipe hats and wear makeup .
+fashion	Two people wearing hats sit and look at the camera .
+holidays	A person in a blue shirt sits behind two people sitting on a wood bench .
+holidays	People sit on benches .
+holidays	People sitting on benches in a public area .
+holidays	Three people sit on wood benches set on white and orange tile .
+holidays	Three people sit waiting in a lobby .
+fashion	A man in sunglasses on an overpass .
+fashion	A man looking at the camera with another man wearing a mask .
+fashion	A man wearing sunglasses is standing next to a person who is wearing a hat and breathing mask .
+fashion	The man is wearing a white shirt and sunglasses .
+fashion	There are two men with sunglasses , one of which is wearing a hat and a backpack .
+holidays	A boy in a wetsuit jumps into a pool with a bald man .
+holidays	A boy with goggles jumping into a pool containing a man .
+holidays	A child is jumping into a pool while a man is watching the child
+holidays	A swimming person is watching a child jump into a pool with blue water .
+holidays	A young boy jumps in a swimming pool towards a bald man in the water .
+holidays	A boy flips off a diving board into a pool .
+holidays	A boy is diving off a diving board into a swimming pool .
+holidays	A child is diving into a pool .
+holidays	A child jumping into a swimming pool from the diving board .
+holidays	Child flips off pool diving board , man and another tumbling child at poolside .
+holidays	A lady holds a little girl who is trying to catch bubbles .
+holidays	A woman is holding a little girl who is trying to catch bubbles .
+holidays	A woman with holding a young girl playing with bubbles at a picnic .
+holidays	A young woman in a blue shirt stands , holding a young girl in a denim dress .
+holidays	There is a woman holding her baby daughter while the daughter claps .
+pets	A brown dog biting a gray dogs ear .
+pets	Brown dog biting a grey dogs ear .
+pets	Tan dog on grass with mouth open , about to bite gray dog 's ear .
+pets	Two dogs are playing in a grassy field ; one dog is biting the ear of the other dog .
+pets	Two dogs are playing together on green grass .
+fitness	Girls wearing sports uniforms and eye protection .
+fitness	Several female lacrosse players are going after a ball .
+fitness	These girls are in uniforms and are playing field hockey .
+fitness	The woman lacrosse player in blue is about to catch the ball .
+fitness	Women play lacrosse .
+pets	A dog in a number six jersey is running through a field .
+pets	A dog is leaping through the grass .
+pets	A dog is wearing a red number 6 and running through a field of green grass while being chased by a bird .
+pets	A white and tan dog leaps through the air .
+pets	The dog in a vest leaps in the air and there is a bird flying .
+travel	A brown horse and a black foal on the beach
+travel	A brown horse stands near a black horse that is sitting on the ground .
+travel	A large brown horse stands over a small black colt that is kneeling on the sand .
+travel	An adult horse approaching a foal on a sandy plain .
+travel	A thin brown horse standing and a small black horse sitting on sand .
+couples	Two couples walking on a path adorned with trees , bushes and grass .
+couples	Two couples stop to take a photo .
+couples	Four runners pose for a picture .
+couples	They are posing for a picture .
+couples	Two young couples posing for a picture in exercise clothing .
+couples	A family of nine people , including four children , pose in front of a brick fireplace with a white mantle .
+couples	A family poses in front of the fireplace and Christmas tree .
+couples	A family posing by the mantle and christmas tree .
+couples	A happy family poses by the fireplace .
+couples	Two couples and four kids pose for a family picture .
+couples	Two couples pose for a picture in the winter .
+couples	a few couples sitting on beanches next to a pool
+couples	the two couples are chatting by the bus .
+couples	Two girls and two guys are talking to each other with a bus in the background .
+food	A child is eating something very close to the camera while other children sit at a table behind him .
+food	A little boy prestends to punch another kid in the temple while they are eating lunch .
+food	Asian children eating together .
+food	Three children eating food at a table .
+food	Two asian children are looking at another child who is eating in a restaurant .
+food	A dog is staring at the food in the plate of a person eating .
+food	A person holding a dog while they eat .
+food	A person is eating a plate of pasta with a black and brown dog on his or her lap .
+food	A person is eating pasta , while a dog is watching .
+food	Someone in a blue and white striped sweater is eating and the dog next to them is interested in their food .
+food	A young boy sits at a picnic table and drinks out of a small cup .
+food	Boy drinking , at backyard table full of bowls of food .
+food	Child sitting at a backyard picnic table .
+food	Little boy is drinking out of a glass at a picnic .
+food	The boy drinks from a plastic glass while sitting at a table with food on it .
+food	Three people stand outside a fast food joint with their drinks .
+food	A baby girl has the contents of a red pot all over her face .
+food	A baby girl holding a red plastic box in one hand and eating from it with the other , some of it on her face .
+food	A little girl in a highchair has food all over her lower face and her finger in her mouth .
+food	A toddler with pudding all over her face and hands from eating with her fingers .
+food	The little girl is in her high chair eating jello .
+food	a redheaded woman eating some food with a few people standing around her
+food	A man in a black shirt enjoys a snack while a woman in a white shirt looks confused .
+food	A man is eating from a paper cone while a woman stands behind him .
+food	A man is standing in front of a woman while eating something .
+food	One dark-skinned man is eating French Fries and blond woman is standing behind him
+food	The man white purple and white polka-dotted shirts is eating and looking to his right while the woman behind him has a confused look on her face .
+food	a boy in a red baseball cap eats a Ritz cracker and has a big pink cup of juice
+food	A little boy wearing a red hat with an Ritz cracker in his hand .
+food	A small boy with a red ball cap holding a cracker with a pink cup nearby .
+food	The small boy in the red hat has a cracker .
+food	Two cute little girls enjoying corn on the cob .
+food	Two girls enjoy corn on the cob while sitting on a curb .
+food	Two little girls sitting on the edge of a street eating corn on the cob .
+food	Two young girls are sitting on the street eating corn .
+food	Two young girls eating corn on the cob on a sidewalk without shoes .
+food	A gyro chef in a white jacket and cap looking at gyro meat .
+food	A large man wearing a white hat .
+food	A man in a butchers uniform standing next to two large rolls of beef .
+food	A man in white stands in front of gyro meat .
+food	The chef is working at a restaurant .
+food	A girl in a white cap eats a slice of fruit next to a girl in a blue cap who is eating chocolate .
+food	One young girl eats fruit while another eats chocolate .
+food	Two children taking in a snack .
+food	Two girls sitting in the grass wearing hats eat snacks .
+food	Two girls with baseball caps are eating a snack outside .
+food	A boy is putting the cone end of a melting ice cream cone in his mouth .
+food	A boy with his eyes closed eats the bottom of an ice cream cone .
+food	A young boy eating ice cream .
+food	A young boy wearing a big watch eats an ice cream cone .
+food	Little boy is eating the rest of the ice cream cone from the bottom up .
+food	A young boy winks as he is eating .
+food	The little boy is holding a spoon in his hand whilst winking one eye .
+food	A fat woman wearing a blue tank top and a backpack , eating a chili cheese dog
+food	An obese woman holding a chili dog in her right hand .
+food	A woman holding a giant hot dog covered with mustard .
+food	A woman in a blue shirt with a backpack eating a hot dog .
+food	A woman in a blue tank top eats a chili cheese hot dog .
+food	A boy holds a green apple in his mouth .
+food	A boy wearing a life jacket has an apple in his mouth .
+food	A child is holding an apple in his mouth
+food	A young child in a life jacket eats a green apple .
+food	child with a green apple in his mouth is wearing a red life jacket
+food	a few girls on a woooden pier eating ice cream cones
+food	A young girl enjoys ice cream with two older women in a pier-like setting .
+food	Two older women and a little girl standing outside under flowers .
+food	Two women and a little girl are eating ice cream .
+food	Two women and child eat ice cream cones on bridge decorated with flowers .
+food	The girls are both eating and the girl wearing the color red has cake icing on her upper lip .
+food	Two girls are eating cake and one has blue icing on her face .
+food	Two girls play with their food for the camera .
+food	Two little girls are eating and making a mess .
+food	Two young girls having fun while eating .
+food	A group of children and their gaurdian walk on the boardwalk and eat ice cream .
+food	A woman and children with their ice cream cones .
+food	A woman with four children are eating ice cream cones .
+food	Family enjoying ice cream on the boardwalk .
+food	The woman is walking with her children all holding ice cream cones .
+food	Two boys are sitting in front of a structure eating Popsicles .
+food	Two boys eating popscicles outside .
+food	Two boys sitting and eating ice cream .
+food	Two little boys are sitting on a step eating ice lollipops .
+food	Two young boys eating red and blue popcycles .
+food	A girl has rested her bike by a bench so that she can eat and ice cream .
+food	A girl is sitting on a bench eating ice cream with a bike next to her .
+food	A girl with a hat is sitting outside on a table with a bike leaning against the table .
+food	A little girl eats ice cream near her bike .
+food	A young girl sits on a metal bench with her bike eating ice cream .
+food	A child eating food and smiling at the camera .
+food	A little child in a green shirt eats a crust of bread , smiling .
+food	A small child in a green jacket eating something .
+food	A small child looks and smiles as she eats .
+food	A smiling little boy in a green jacket eats a snack .
+food	A man and a woman are sitting down and eating .
+food	A woman eating at a restaurant with other people .
+food	A Woman sitting by a man is eating a plate of french fries .
+food	A young woman leans over her plate at a meal .
+food	The girl sitting next to the man wearing a white t-shirt is eating french fries .
+couples	A girl and boy hug each other near a doorway .
+couples	A young boy and girl hug and smile .
+couples	Two children are hugging each other indoors .
+couples	two children hug .
+couples	Two children hug one another .
+couples	A girl and boy bounce on large balls .
+couples	A little boy and girl bounce on red and blue balls in the yard on grass .
+couples	Two children are bouncing on their toys behind a gated housing complex .
+couples	Two children are hopping on inflatable balls .
+couples	Two kids bouncing on balls in the yard .
+couples	A little boy and a little girl playing together outside .
+couples	A little girl and boy play Frisbee together in a grassy area .
+couples	A young boy and a young girl walking towards each other
+couples	A young boy and girl playing .
+couples	Two children playing in a field .
+couples	A girl and boy wearing swimming goggles have their arms around each other .
+couples	A little boy and a little girl wearing goggles pose next to a swimming pool .
+couples	The boy and girl are wearing swimming goggles .
+couples	Two children in goggles standing beside a pool .
+couples	Two children with goggles stand before a pool .
+couples	A boy and girl bounce on a trampoline nearby a playground and area of foliage .
+couples	A little girl and boy jump on a trampoline outside .
+couples	Children playing on a trampoline .
+couples	Two children bounce on a trampoline .
+couples	Two small children sitting and jumping on a trampoline .
+couples	A girl and boy look at each other .
+couples	A girl smiles and a boy looks up at her .
+couples	The boy is looking up at the girl as another girl ignores them .
+couples	Three asian people sitting down .
+couples	Two people looking at each other , a third person is not attentive .
+couples	A couple practice different ways to wear sunglasses in front of a red car .
+couples	A girl and boy with sunglasses and a red car behind them .
+couples	A man with sunglasses and a woman with a hat are in front of a car .
+couples	a man with sunglasses on his head is looking at the woman with a white hat and red scarf next to him whilst standing in front of a red sports car .
+couples	A woman in a crochet hat and sunglasses smiles while the man beside her in a plaid short and sunglasses looks behind her .
+couples	A boy and a girl are riding in a red seat on a fairground ride .
+couples	A girl and a boy enjoy a fast amusement ride .
+couples	A young girl and boy on a ride at an amusement park .
+couples	Two children ride in a red seat on a fair ride and smile .
+couples	Two kids are on a fair ride and are slipping to one side of the car .
+couples	A close-up of a man and woman wearing hats with pins on them
+couples	A guy and a girl wearing baseball caps and black scarves around their necks .
+couples	A woman wearing a hat leans over to a man who has a tattoo .
+couples	The girls with a pierced lip and cap is standing next to a man with a beard and a black cap .
+couples	Two people sit side by side up against a tree .
+couples	Two children lay under a sculpture of a fish , about to swallow them .
+couples	Two children lie beneath the hoof of a bronze horse sculpture .
+couples	Two children on their stomachs lay on the ground under a pipe .
+couples	Two children play beneath a metal statue .
+couples	Two young girls make faces from below a sculpture .
+couples	A couple walking on a dirt road .
+couples	A man and women walk atop a hill .
+couples	Two people backlit with light sky .
+couples	Two people walk at sunset .
+couples	Two people walk on a path as the sun casts a shadow towards the camera .
+couples	A man and a woman in blue jog on the sidewalk while a man stretches on a park bench .
+couples	An older couple jogging by the water
+couples	Two ladies jogging on a path near the waterfront .
+couples	Two people wearing blue are jogging on a sidewalk in front of a lake with mountains in the backround .
+couples	Two women jogging down a sidewalk in front of a person leaning on a bench in front of a lake . with another person
+couples	A couple in the front are dancing among a group of people .
+couples	A couple with bright hair embracing near a crowd of others .
+couples	A man and a woman sitting on a bench
+couples	An older couple is resting on a bench .
+couples	An older man and woman sitting on a cement bench with frowns on their faces .
+couples	An older woman and an old man sitting down looking unhappy .
+couples	An overweight woman and man have upset faces as they sit on a bench .
+couples	A couple is standing against a railing looking at a beautiful lake and sunset .
+couples	A couple takes in the view at the water at dusk .
+couples	The couple is standing by the railing overlooking the water .
+couples	Two people stand against the railing above the water and watch the sunset .
+couples	Two people stand close together looking at a river from behind a fence .
+couples	A couple hold each other , standing on a ferry , looking out at a ferry .
+couples	A couple standing on the deck of a boat watching the water .
+couples	A man embraces a woman as they look over the railing out over the water at a ship .
+couples	Couple overlooking a metal rail with water and a boat int he background .
+couples	The couple is together looking at the large ship in the ocean .
+fashion	A runner in a yellow shirt is cresting a hill .
+fashion	A runner with one green shoe and one white shoe runs uphill .
+fashion	A single runner is watched by onlookers in a race .
+fashion	Man wearing green sneakers runs down highway .
+fashion	The runner in red and yellow has just made it up the hill .
+fashion	A girl sits on a swing .
+fashion	A girl wearing an orange shirt holds onto poles and looks down .
+fashion	A soft focus picture of a little girl wearing an orange sweater .
+fashion	a young girl with long brown hair holding a black and red striped stick .
+fashion	The girl in the red shirt smiles on the swing .
+fashion	A boy wearing red crocs climbing a tree .
+fashion	A boy wearing red shoes is climbing in a tree .
+fashion	A child wearing red shoes climbing a tree .
+fashion	A small child is in a tree wearing red shoes .
+fashion	A young boy wearing red Croc sandals climbs a tree with healthy , green leaves .
+fashion	A clown dressed in red and yellow holds something to his mouth .
+fashion	A man with black hair is wearing a red and yellow shirt and has a yellow clown nose and face makeup on .
+fashion	A person is wearing mime makeup and glasses on his head as he looks at the camera .
+fashion	A person wearing clown makeup points a fake gun at the camera .
+fashion	A person with black hair is dressed like a clown .
+fashion	An older lady wearing a Tinkerbell jacket .
+fashion	A woman standing near water is wearing a pink jacked with Tinkerbell on it .
+fashion	A woman wearing a pink TinkerBell jacket leans against a railing .
+fashion	A woman wearing a pink Tinkerbell sweatshirt leans on a railing overlooking water .
+fashion	Lady in a pink Tinkerbell jacket stands next to the railing and looks out at the water .
+fashion	A man wearing glasses is staring off into space .
+fashion	A man with glasses is standing in front of a building .
+fashion	A man with sunglasses looking straight ahead .
+fashion	A man with sunglasses standing by a white and red building with a very blue sky above .
+fashion	The man wearing the purple shirt is in the shadows .
+fashion	A little girl in a swimsuit and braids is in front of the water , in the grass , with her arms crossed in front of her chest
+fashion	A young girl in a bathing suit and pigtails crosses her arms .
+fashion	A young girl in a pink swimsuit .
+fashion	A young girl sitting in the grass near a lake .
+fashion	Ypoung girl with arms crossed over her heart wearing a bikini setting in tall grass in front of a body of water .
+couples	Two children laying on the floor with a group of wooden blocks above their heads .
+couples	Two children re laying on a rug with some wooden bricks laid out in a square between them .
+couples	Two kids lie on a rug near wooden blocks and smile .
+couples	Two little girls lie on the carpet next to an O made of wooden blocks .
+couples	two young girls lay on the carpet next to wooden blocks .
+couples	Two guys are playing horse shoe together .
+couples	Two guys playing horseshoe .
+couples	Two men playing horseshoes .
+couples	Two men wearing jeans and sunglasses are playing horseshoes .
+couples	Two people play horseshoes .
+couples	A small blonde boy and another small child are inside a cushion doghouse with a brown dog .
+couples	Two children and a brown dog in a brown tube .
+couples	Two children and a dog are in a bedroll .
+couples	Two children in an enclosed dog bed with the dog .
+couples	Two youn boys lay in a dog house with their dog .
+couples	Two babies look up while they are playing in a playpen with a lot of balls .
+couples	Two boys in tent-like area , with colorful balls on floor .
+couples	Two children look up .
+couples	Two kids are in a pen playing with colorful balls .
+couples	Two young children play with colored balls .
+couples	Two people sit on a bench leaned against a building with writing on it .
+couples	Two people sit on a bench on a city street .
+couples	Two children playing on a metal slide .
+couples	two children slide down a slide .
+pets	A dog stands shoulder deep in muddy water .
+pets	A dog with white fur is moving through deep murky water .
+pets	A light tan dog swimming through swampy water .
+pets	A white dog is standing in mud up to its neck
+pets	A white dog is wading in natural water with algae .
+pets	The dog on the right has a red object in his mouth , and the other dog has biting it .
+pets	Two black dogs playing with orange object run across grass .
+pets	Two black dogs play with a toy .
+pets	Two black labs run , one carrying an orange dog toy .
+pets	Two dark dogs run together and one holds something in its mouth .
+couples	Two children play with colored balls .
+couples	Two dogs sit on a bench leaned against a building with writing on it .
+couples	Two dogs sit on a bench on a city street .
+couples	Parents playing on a metal slide .
+couples	Parents slide down a slide .
+food	A little boy in red walks and eats a snack while a little boy in green walks behind .
+food	A young boy eats chips while another little boy follows .
+food	Two little kids walk side by side while one eats something .
+food	A mother helps her little boy eat his food by feeding him by hand .
+food	A mother is trying to get her son to eat food at a restaurant .
+food	At a table in a restaurant , a girl is trying to get a little boy to eat .
+food	A young lady wearing yellow is feeding a small child at the table .
+food	Woman sitting at table feeding child who is sitting on her lap
+food	A girl in a striped shirt holds a bun to her mouth .
+food	A girl with a striped shirt with bread in hands in front of mouth .
+food	A little girl is eating a piece of bread .
+food	The little girl in the striped shirt is eating some bread .
+food	This girl is eating a piece of bread in her striped shirt .
+food	A boy holds a red bucket up to a pony .
+food	A man feeding a horse wearing a blue strapped blanket .
+food	A man holds feed for a horse in a blue blanket .
+food	A young boy is feeding a horse some hay from an orange bucket .
+food	Grey horse wearing blue cover eating from a orange bucket held by a person in a green shirt .
+food	A man and a girl sit on the ground and eat .
+food	A man and young girl eat a meal on a city street .
+food	A young boy and girl sit in a wagon eating corndogs .
+food	Two kids eat corndogs outside .
+food	Two kids sit in a plastic tub outdoors , holding corndogs .
+food	Two toddlers are eating corndogs in a small wagon or bin .
+food	two young children eat corndogs .
+food	A girl wearing a halter top eats cake at a table .
+food	a little girl holds up her plate .
+food	A little girl is eating cake and strawberries at a wooden table .
+food	A young girl sits at a table and eats .
+food	The little girl is eating outdoors .
+food	A baby eats and has food on his face .
+food	A boy with lips messy from eating fruit
+food	A little boy is eating something and got it all over his mouth .
+food	A small child with berries all over its mouth .
+food	A young brown eyed boy with red syrup on his lips is pouring syrup .
+food	A girl messily eats a plate of pasta .
+food	A little girl in a high chair is messily eating spaghetti .
+food	A little girl makes a mess on her hand and face while eating in her baby chair .
+food	A young girl sits in a high chair and eats red food while making a mess .
+food	The girl eating spaghetti is wearing a red jacket .
+food	Two boys eating apples playing on a cement car barrier
+food	Two boys with apples leap over a barrier in the street .
+travel	People kayaking in snowy and mountainous region .
+travel	Snowy mountains are in the background of three ocean kayakers .
+travel	three kayakers are traveling in the water alongside snowcapped mountains .
+travel	Three men kayaking with mountains in the background
+travel	Three people on red boats paddle through water with mountains in the background .
+travel	A blue buggy is driving across the sand dunes .
+travel	A blue go cart in the dirt pointing downhill .
+travel	A dune buggy goes down a hill .
+travel	A dune buggy going down a sandy hill .
+travel	A dune buggy traveling on sand .
